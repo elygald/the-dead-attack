@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: b4f0602b65fc3e343b7db412e8fb22d0
+timeCreated: 1464145314
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aranhasotimisada_0
+    21300002: aranhasotimisada_1
+    21300004: aranhasotimisada_2
+    21300006: aranhasotimisada_3
+    21300008: aranhasotimisada_4
+    21300010: aranhasotimisada_5
+    21300012: aranhasotimisada_6
+    21300014: aranhasotimisada_7
+    21300016: aranhasotimisada_8
+    21300018: aranhasotimisada_9
+    21300020: aranhasotimisada_10
+    21300022: aranhasotimisada_11
+    21300024: aranhasotimisada_12
+    21300026: aranhasotimisada_13
+    21300028: aranhasotimisada_14
+    21300030: aranhasotimisada_15
+    21300032: aranhasotimisada_16
+    21300034: aranhasotimisada_17
+    21300036: aranhasotimisada_18
+    21300038: aranhasotimisada_19
+    21300040: aranhasotimisada_20
+    21300042: aranhasotimisada_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: aranhasotimisada_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 663
+        width: 285
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -142.5, y: 0}
+        - {x: 142.5, y: 0}
+        - {x: 142.5, y: 90}
+        - {x: 76.5, y: 118}
+        - {x: -100.5, y: 118}
+        - {x: -142.5, y: 66}
+    - name: aranhasotimisada_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 664
+        width: 285
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.5, y: 8}
+        - {x: -105.5, y: 24}
+        - {x: -94.5, y: 0}
+        - {x: -78.5, y: 0}
+        - {x: -71.5, y: 12}
+        - {x: -2.5, y: 0}
+        - {x: 97.5, y: 0}
+        - {x: 97.5, y: 4}
+        - {x: 133.5, y: 40}
+        - {x: 142.5, y: 65}
+        - {x: 142.5, y: 81}
+        - {x: 123.5, y: 87}
+        - {x: 47.5, y: 119}
+        - {x: -64.5, y: 119}
+        - {x: -142.5, y: 78}
+        - {x: -142.5, y: 0}
+        - {x: -133.5, y: 0}
+        - {x: -125.5, y: 13}
+        - {x: -121.5, y: 58}
+        - {x: -124.5, y: 13}
+    - name: aranhasotimisada_2
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 663
+        width: 282
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 116}
+        - {x: -60, y: 116}
+        - {x: -132, y: 84}
+        - {x: -141, y: 57}
+        - {x: -141, y: 0}
+        - {x: 121, y: 0}
+        - {x: 141, y: 45}
+        - {x: 141, y: 92}
+    - name: aranhasotimisada_3
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 664
+        width: 299
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 118}
+        - {x: -96.5, y: 112}
+        - {x: -140.5, y: 71}
+        - {x: -149.5, y: 49}
+        - {x: -149.5, y: 0}
+        - {x: 149.5, y: 0}
+        - {x: 149.5, y: 90}
+        - {x: 92.5, y: 118}
+    - name: aranhasotimisada_4
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 664
+        width: 284
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 28}
+        - {x: -48, y: 17}
+        - {x: -20, y: 0}
+        - {x: 142, y: 0}
+        - {x: 142, y: 95}
+        - {x: 97, y: 117}
+        - {x: -70, y: 117}
+        - {x: -130, y: 101}
+        - {x: -142, y: 50}
+        - {x: -142, y: 18}
+        - {x: -136, y: 18}
+        - {x: -125, y: 31}
+        - {x: -124, y: 3}
+        - {x: -118, y: 2}
+        - {x: -115, y: 3}
+        - {x: -111, y: 7}
+        - {x: -107, y: 16}
+        - {x: -74, y: 0}
+        - {x: -57, y: 0}
+        - {x: -52, y: 7}
+        - {x: -51, y: 14}
+        - {x: -51, y: 32}
+    - name: aranhasotimisada_5
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 663
+        width: 285
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.5, y: 116}
+        - {x: -142.5, y: 84}
+        - {x: -142.5, y: 0}
+        - {x: -139.5, y: 0}
+        - {x: -126.5, y: 9}
+        - {x: -109.5, y: 27}
+        - {x: -108.5, y: 0}
+        - {x: 142.5, y: 0}
+        - {x: 142.5, y: 108}
+        - {x: 112.5, y: 116}
+    - name: aranhasotimisada_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 482
+        width: 299
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119.5, y: 0}
+        - {x: -112.5, y: 10}
+        - {x: -107.5, y: 0}
+        - {x: 149.5, y: 0}
+        - {x: 149.5, y: 23}
+        - {x: 143.5, y: 76}
+        - {x: 77.5, y: 114}
+        - {x: -126.5, y: 114}
+        - {x: -149.5, y: 51}
+        - {x: -149.5, y: 0}
+        - {x: -143.5, y: 0}
+        - {x: -136.5, y: 7}
+        - {x: -133.5, y: 12}
+        - {x: -133.5, y: 0}
+    - name: aranhasotimisada_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 482
+        width: 299
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134.5, y: 125}
+        - {x: -149.5, y: 94}
+        - {x: -149.5, y: 82}
+        - {x: -136.5, y: 66}
+        - {x: -49.5, y: 4}
+        - {x: -11.5, y: 0}
+        - {x: 149.5, y: 0}
+        - {x: 149.5, y: 81}
+        - {x: 66.5, y: 125}
+    - name: aranhasotimisada_8
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 482
+        width: 287
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118.5, y: 157}
+        - {x: -117.5, y: 142}
+        - {x: -114.5, y: 140}
+        - {x: -110.5, y: 139}
+        - {x: -100.5, y: 136}
+        - {x: -95.5, y: 136}
+        - {x: -89.5, y: 138}
+        - {x: -94.5, y: 136}
+        - {x: -127.5, y: 136}
+        - {x: -132.5, y: 133}
+        - {x: -143.5, y: 125}
+        - {x: -143.5, y: 103}
+        - {x: -142.5, y: 100}
+        - {x: -123.5, y: 34}
+        - {x: -11.5, y: 0}
+        - {x: 143.5, y: 0}
+        - {x: 143.5, y: 112}
+        - {x: -6.5, y: 157}
+    - name: aranhasotimisada_9
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 482
+        width: 283
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 109}
+        - {x: -48.5, y: 162}
+        - {x: -104.5, y: 162}
+        - {x: -127.5, y: 156}
+        - {x: -115.5, y: 146}
+        - {x: -110.5, y: 145}
+        - {x: -100.5, y: 151}
+        - {x: -104.5, y: 145}
+        - {x: -102.5, y: 139}
+        - {x: -95.5, y: 139}
+        - {x: -89.5, y: 141}
+        - {x: -87.5, y: 139}
+        - {x: -104.5, y: 139}
+        - {x: -104.5, y: 140}
+        - {x: -125.5, y: 142}
+        - {x: -141.5, y: 129}
+        - {x: -141.5, y: 116}
+        - {x: -102.5, y: 61}
+        - {x: -21.5, y: 0}
+        - {x: 141.5, y: 0}
+        - {x: 141.5, y: 47}
+        - {x: 135.5, y: 72}
+        - {x: 43.5, y: 121}
+        - {x: 7.5, y: 117}
+    - name: aranhasotimisada_10
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 486
+        width: 298
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 0}
+        - {x: 103, y: 7}
+        - {x: 113, y: 1}
+        - {x: 116, y: 0}
+        - {x: 123, y: 0}
+        - {x: 125, y: 5}
+        - {x: 141, y: 0}
+        - {x: 149, y: 0}
+        - {x: 149, y: 25}
+        - {x: 143, y: 74}
+        - {x: 89, y: 102}
+        - {x: -82, y: 102}
+        - {x: -149, y: 83}
+        - {x: -149, y: 0}
+        - {x: -86, y: 0}
+        - {x: -79, y: 12}
+        - {x: -73, y: 0}
+    - name: aranhasotimisada_11
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 495
+        width: 298
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149, y: 28}
+        - {x: 142, y: 76}
+        - {x: 81, y: 114}
+        - {x: -73, y: 114}
+        - {x: -116, y: 84}
+        - {x: -138, y: 69}
+        - {x: -149, y: 17}
+        - {x: -149, y: 0}
+        - {x: 149, y: 0}
+    - name: aranhasotimisada_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 298
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: 40}
+        - {x: 82, y: 55}
+        - {x: 80, y: 57}
+        - {x: 83, y: 51}
+        - {x: 85, y: 49}
+        - {x: 105, y: 9}
+        - {x: 112, y: 1}
+        - {x: 115, y: 0}
+        - {x: 122, y: 0}
+        - {x: 124, y: 4}
+        - {x: 140, y: 0}
+        - {x: 149, y: 0}
+        - {x: 149, y: 139}
+        - {x: -48, y: 139}
+        - {x: -94, y: 125}
+        - {x: -149, y: 31}
+        - {x: -149, y: 0}
+        - {x: 105, y: 0}
+        - {x: 103, y: 7}
+        - {x: 98, y: 19}
+    - name: aranhasotimisada_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 307
+        width: 227
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: 20}
+        - {x: 50.5, y: 27}
+        - {x: 52.5, y: 19}
+        - {x: 54.5, y: 16}
+        - {x: 54.5, y: 14}
+        - {x: 58.5, y: 0}
+        - {x: 74.5, y: 0}
+        - {x: 113.5, y: 116}
+        - {x: 113.5, y: 139}
+        - {x: 79.5, y: 152}
+        - {x: -59.5, y: 152}
+        - {x: -113.5, y: 117}
+        - {x: -113.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 21.5, y: 28}
+        - {x: 16.5, y: 47}
+        - {x: 15.5, y: 48}
+        - {x: 15.5, y: 51}
+        - {x: 14.5, y: 52}
+        - {x: 13.5, y: 58}
+        - {x: 8.5, y: 68}
+        - {x: 15.5, y: 54}
+        - {x: 15.5, y: 51}
+        - {x: 16.5, y: 48}
+        - {x: 20.5, y: 34}
+        - {x: 21.5, y: 31}
+        - {x: 25.5, y: 8}
+        - {x: 34.5, y: 2}
+        - {x: 37.5, y: 8}
+        - {x: 37.5, y: 13}
+        - {x: 26.5, y: 51}
+        - {x: 23.5, y: 61}
+        - {x: 21.5, y: 66}
+        - {x: 18.5, y: 72}
+        - {x: 16.5, y: 74}
+        - {x: 19.5, y: 70}
+        - {x: 27.5, y: 53}
+        - {x: 46.5, y: 0}
+        - {x: 55.5, y: 0}
+        - {x: 55.5, y: 8}
+        - {x: 54.5, y: 9}
+        - {x: 53.5, y: 17}
+    - name: aranhasotimisada_14
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 331
+        width: 288
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 0}
+        - {x: -60, y: 15}
+        - {x: 16, y: 0}
+        - {x: 115, y: 0}
+        - {x: 118, y: 3}
+        - {x: 118, y: 6}
+        - {x: 137, y: 0}
+        - {x: 144, y: 0}
+        - {x: 144, y: 49}
+        - {x: 142, y: 78}
+        - {x: 99, y: 111}
+        - {x: -108, y: 111}
+        - {x: -144, y: 102}
+        - {x: -144, y: 9}
+        - {x: -139, y: 10}
+        - {x: -131, y: 17}
+        - {x: -128, y: 24}
+        - {x: -126, y: 15}
+        - {x: -121, y: 7}
+        - {x: -117, y: 8}
+        - {x: -109, y: 17}
+        - {x: -103, y: 0}
+        - {x: -90, y: 0}
+        - {x: -83, y: 11}
+        - {x: -78, y: 0}
+    - name: aranhasotimisada_15
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 329
+        width: 321
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.5, y: 0}
+        - {x: -82.5, y: 2}
+        - {x: -54.5, y: 0}
+        - {x: 132.5, y: 0}
+        - {x: 160.5, y: 67}
+        - {x: 160.5, y: 99}
+        - {x: 127.5, y: 114}
+        - {x: -98.5, y: 114}
+        - {x: -151.5, y: 81}
+        - {x: -160.5, y: 29}
+        - {x: -160.5, y: 9}
+        - {x: -155.5, y: 11}
+        - {x: -146.5, y: 19}
+        - {x: -144.5, y: 24}
+        - {x: -141.5, y: 11}
+        - {x: -134.5, y: 0}
+        - {x: -106.5, y: 0}
+        - {x: -99.5, y: 11}
+        - {x: -91.5, y: 1}
+        - {x: -88.5, y: 0}
+    - name: aranhasotimisada_16
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 293
+        width: 324
+        height: 184
+      alignment: 9
+      pivot: {x: 0.47847456, y: 0.19583263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.974243, y: 145.9668}
+        - {x: 24.974243, y: 147.9668}
+        - {x: -41.025757, y: 147.9668}
+        - {x: -145.02576, y: 75.9668}
+        - {x: -155.02576, y: 26.966797}
+        - {x: -155.02576, y: 5.966797}
+        - {x: -149.02576, y: 5.966797}
+        - {x: -146.02576, y: -7.033203}
+        - {x: -100.02576, y: -24.033203}
+        - {x: -32.025757, y: -33.033203}
+        - {x: 32.974243, y: -24.033203}
+        - {x: 65.97424, y: -36.033203}
+        - {x: 128.97424, y: -36.033203}
+        - {x: 135.97424, y: -35.033203}
+        - {x: 168.97424, y: 4.966797}
+        - {x: 168.97424, y: 90.9668}
+        - {x: 128.97424, y: 114.9668}
+    - name: aranhasotimisada_17
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 273
+        width: 304
+        height: 208
+      alignment: 9
+      pivot: {x: 0.4578219, y: 0.36575934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135.82214, y: -57.07794}
+        - {x: 164.82214, y: -11.077942}
+        - {x: 164.82214, y: 23.922058}
+        - {x: 161.82214, y: 33.92206}
+        - {x: 101.82214, y: 104.92206}
+        - {x: 86.82214, y: 120.92206}
+        - {x: 62.822144, y: 131.92206}
+        - {x: -84.17786, y: 131.92206}
+        - {x: -116.17786, y: 93.92206}
+        - {x: -139.17786, y: 33.92206}
+        - {x: -139.17786, y: 10.922058}
+        - {x: -132.17786, y: -3.077942}
+        - {x: -102.17786, y: -56.07794}
+        - {x: -83.17786, y: -73.07794}
+        - {x: -48.177856, y: -73.07794}
+        - {x: -37.177856, y: -64.07794}
+        - {x: 45.822144, y: -73.07794}
+        - {x: 68.82214, y: -53.07794}
+        - {x: 96.82214, y: -70.07794}
+    - name: aranhasotimisada_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 293
+        height: 317
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 317}
+        - {x: -54.5, y: 270}
+        - {x: -146.5, y: 169}
+        - {x: -146.5, y: 108}
+        - {x: -141.5, y: 108}
+        - {x: -136.5, y: 113}
+        - {x: -118.5, y: 14}
+        - {x: -103.5, y: 13}
+        - {x: -77.5, y: 0}
+        - {x: 146.5, y: 0}
+        - {x: 146.5, y: 247}
+        - {x: 26.5, y: 317}
+    - name: aranhasotimisada_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 100
+        width: 304
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46520936, y: 0.3430565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135.57635, y: -64.012695}
+        - {x: 162.57635, y: -4.0126953}
+        - {x: 162.57635, y: 23.987305}
+        - {x: 83.576355, y: 130.9873}
+        - {x: 57.576355, y: 135.9873}
+        - {x: 22.576355, y: 135.9873}
+        - {x: -4.423645, y: 110.987305}
+        - {x: -45.423645, y: 134.9873}
+        - {x: -100.423645, y: 92.987305}
+        - {x: -141.42365, y: 39.987305}
+        - {x: -141.42365, y: 16.987305}
+        - {x: -108.423645, y: -52.012695}
+        - {x: -92.423645, y: -67.012695}
+        - {x: -77.423645, y: -71.012695}
+        - {x: -58.423645, y: -71.012695}
+        - {x: -34.423645, y: -54.012695}
+        - {x: 31.576355, y: -65.012695}
+        - {x: 90.576355, y: -70.012695}
+      - - {x: 75.576355, y: 135.9873}
+        - {x: 75.576355, y: 132.9873}
+        - {x: 78.576355, y: 130.9873}
+        - {x: 81.576355, y: 130.9873}
+        - {x: 83.576355, y: 131.9873}
+        - {x: 84.576355, y: 135.9873}
+      - - {x: 62.576355, y: 135.9873}
+        - {x: 62.576355, y: 134.9873}
+        - {x: 65.576355, y: 131.9873}
+        - {x: 68.576355, y: 131.9873}
+        - {x: 71.576355, y: 134.9873}
+        - {x: 71.576355, y: 135.9873}
+    - name: aranhasotimisada_20
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 114
+        width: 269
+        height: 168
+      alignment: 9
+      pivot: {x: 0.3988981, y: 0.364237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.30359, y: 106.80818}
+        - {x: -86.30359, y: 103.80818}
+        - {x: -107.30359, y: 41.80818}
+        - {x: -107.30359, y: -0.19181824}
+        - {x: -53.30359, y: -11.191818}
+        - {x: -13.303589, y: -0.19181824}
+        - {x: 80.69641, y: -61.19182}
+        - {x: 116.69641, y: -61.19182}
+        - {x: 131.69641, y: -56.19182}
+        - {x: 161.69641, y: -4.191818}
+        - {x: 161.69641, y: 23.808182}
+        - {x: 103.69641, y: 106.80818}
+    - name: aranhasotimisada_21
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 111
+        width: 269
+        height: 167
+      alignment: 9
+      pivot: {x: 0.3988981, y: 0.37546533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.69641, y: 104.29729}
+        - {x: 0.69641113, y: 104.29729}
+        - {x: -86.30359, y: 86.29729}
+        - {x: -107.30359, y: 35.297287}
+        - {x: -107.30359, y: -2.702713}
+        - {x: -54.30359, y: -14.702713}
+        - {x: 72.69641, y: -60.702713}
+        - {x: 82.69641, y: -62.702713}
+        - {x: 125.69641, y: -62.702713}
+        - {x: 149.69641, y: -30.702713}
+        - {x: 161.69641, y: -10.702713}
+        - {x: 161.69641, y: 31.297287}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

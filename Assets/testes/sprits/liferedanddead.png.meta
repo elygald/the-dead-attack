@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 2951f87cd79582d4fa53de0c3e21b506
+timeCreated: 1465350804
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: liferedanddead_0
+    21300002: liferedanddead_1
+    21300004: liferedanddead_2
+    21300006: liferedanddead_3
+    21300008: liferedanddead_4
+    21300010: liferedanddead_5
+    21300012: liferedanddead_6
+    21300014: liferedanddead_7
+    21300016: liferedanddead_8
+    21300018: liferedanddead_9
+    21300020: liferedanddead_10
+    21300022: liferedanddead_11
+    21300024: liferedanddead_12
+    21300026: liferedanddead_13
+    21300028: liferedanddead_14
+    21300030: liferedanddead_15
+    21300032: liferedanddead_16
+    21300034: liferedanddead_17
+    21300036: liferedanddead_18
+    21300038: liferedanddead_19
+    21300040: liferedanddead_20
+    21300042: liferedanddead_21
+    21300044: liferedanddead_22
+    21300046: liferedanddead_23
+    21300048: liferedanddead_24
+    21300050: liferedanddead_25
+    21300052: liferedanddead_26
+    21300054: liferedanddead_27
+    21300056: liferedanddead_28
+    21300058: liferedanddead_29
+    21300060: liferedanddead_30
+    21300062: liferedanddead_31
+    21300064: liferedanddead_32
+    21300066: liferedanddead_33
+    21300068: liferedanddead_34
+    21300070: liferedanddead_35
+    21300072: liferedanddead_36
+    21300074: liferedanddead_37
+    21300076: liferedanddead_38
+    21300078: liferedanddead_39
+    21300080: liferedanddead_40
+    21300082: liferedanddead_41
+    21300084: liferedanddead_42
+    21300086: liferedanddead_43
+    21300088: liferedanddead_44
+    21300090: liferedanddead_45
+    21300092: liferedanddead_46
+    21300094: liferedanddead_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: liferedanddead_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 503
+        width: 8
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 22}
+        - {x: 0, y: 16}
+        - {x: 0, y: -2}
+        - {x: 22, y: -22}
+        - {x: 33, y: -22}
+        - {x: 60, y: -2}
+        - {x: 60, y: 9}
+        - {x: 50, y: 22}
+    - name: liferedanddead_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 503
+        width: 12
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 22}
+        - {x: 0, y: -2}
+        - {x: 22, y: -22}
+        - {x: 33, y: -22}
+        - {x: 64, y: -2}
+        - {x: 64, y: 15}
+        - {x: 54, y: 22}
+    - name: liferedanddead_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 503
+        width: 16
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 22}
+        - {x: 0, y: 16}
+        - {x: 0, y: -2}
+        - {x: 22, y: -22}
+        - {x: 33, y: -22}
+        - {x: 68, y: -2}
+        - {x: 68, y: 8}
+        - {x: 44, y: 22}
+    - name: liferedanddead_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 503
+        width: 20
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 22}
+        - {x: 0, y: 16}
+        - {x: 0, y: -3}
+        - {x: 15, y: -22}
+        - {x: 35, y: -22}
+        - {x: 72, y: -6}
+        - {x: 72, y: 8}
+        - {x: 48, y: 22}
+    - name: liferedanddead_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 503
+        width: 24
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 22}
+        - {x: 0, y: 16}
+        - {x: 0, y: -2}
+        - {x: 22, y: -22}
+        - {x: 34, y: -22}
+        - {x: 76, y: -1}
+        - {x: 76, y: 8}
+        - {x: 45, y: 22}
+    - name: liferedanddead_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 503
+        width: 28
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 22}
+        - {x: 0, y: -2}
+        - {x: 22, y: -22}
+        - {x: 41, y: -22}
+        - {x: 80, y: 0}
+        - {x: 80, y: 16}
+        - {x: 63, y: 22}
+    - name: liferedanddead_6
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 503
+        width: 32
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 16}
+        - {x: 0, y: 10}
+        - {x: 0, y: 0}
+        - {x: 24, y: 0}
+        - {x: 27, y: 1}
+        - {x: 32, y: 6}
+        - {x: 32, y: 16}
+    - name: liferedanddead_7
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 503
+        width: 36
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 16}
+        - {x: 0, y: 8}
+        - {x: 0, y: 0}
+        - {x: 27, y: 0}
+        - {x: 36, y: 3}
+        - {x: 36, y: 14}
+        - {x: 32, y: 16}
+    - name: liferedanddead_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 503
+        width: 40
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: 0, y: 13}
+        - {x: 0, y: 0}
+        - {x: 40, y: 0}
+        - {x: 40, y: 12}
+        - {x: 39, y: 16}
+    - name: liferedanddead_9
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 503
+        width: 44
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: 0, y: 13}
+        - {x: 0, y: 0}
+        - {x: 25, y: -3}
+        - {x: 32, y: -4}
+        - {x: 44, y: -4}
+        - {x: 44, y: 7}
+        - {x: 39, y: 16}
+    - name: liferedanddead_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 435
+        width: 48
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 14}
+        - {x: 0, y: 6}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 46, y: -6}
+        - {x: 48, y: -4}
+        - {x: 48, y: 6}
+        - {x: 33, y: 14}
+    - name: liferedanddead_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 435
+        width: 52
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -2}
+        - {x: 25, y: -2}
+        - {x: 34, y: -6}
+        - {x: 49, y: -6}
+        - {x: 52, y: 0}
+        - {x: 52, y: 10}
+        - {x: 38, y: 14}
+    - name: liferedanddead_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 435
+        width: 60
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -2}
+        - {x: 21, y: -6}
+        - {x: 47, y: -6}
+        - {x: 60, y: 0}
+        - {x: 60, y: 13}
+        - {x: 58, y: 14}
+    - name: liferedanddead_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 435
+        width: 64
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: 0, y: 13}
+        - {x: 0, y: -5}
+        - {x: 8, y: -6}
+        - {x: 53, y: -6}
+        - {x: 64, y: -3}
+        - {x: 64, y: 11}
+        - {x: 63, y: 14}
+    - name: liferedanddead_14
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 435
+        width: 68
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: 0, y: 13}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 68, y: -6}
+        - {x: 68, y: 5}
+        - {x: 64, y: 14}
+    - name: liferedanddead_15
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 435
+        width: 72
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 2, y: -6}
+        - {x: 72, y: -6}
+        - {x: 72, y: 11}
+        - {x: 59, y: 14}
+    - name: liferedanddead_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 435
+        width: 76
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -5}
+        - {x: 7, y: -6}
+        - {x: 70, y: -6}
+        - {x: 76, y: -2}
+        - {x: 76, y: 13}
+        - {x: 75, y: 14}
+    - name: liferedanddead_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 375
+        width: 80
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -6}
+        - {x: 75, y: -6}
+        - {x: 80, y: 4}
+        - {x: 80, y: 14}
+    - name: liferedanddead_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 375
+        width: 84
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14}
+        - {x: 0, y: 9}
+        - {x: 0, y: -6}
+        - {x: 77, y: -6}
+        - {x: 84, y: 1}
+        - {x: 84, y: 14}
+    - name: liferedanddead_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 375
+        width: 88
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 71, y: -6}
+        - {x: 88, y: -2}
+        - {x: 88, y: 7}
+        - {x: 85, y: 14}
+    - name: liferedanddead_20
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 375
+        width: 92
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 92, y: -6}
+        - {x: 92, y: 14}
+    - name: liferedanddead_21
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 375
+        width: 96
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 93, y: -6}
+        - {x: 96, y: -3}
+        - {x: 96, y: 10}
+        - {x: 94, y: 14}
+    - name: liferedanddead_22
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 375
+        width: 100
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 94, y: -6}
+        - {x: 100, y: -2}
+        - {x: 100, y: 11}
+        - {x: 99, y: 14}
+    - name: liferedanddead_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 311
+        width: 104
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -6}
+        - {x: 96, y: -6}
+        - {x: 104, y: -3}
+        - {x: 104, y: 14}
+    - name: liferedanddead_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 311
+        width: 108
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 1, y: -6}
+        - {x: 97, y: -6}
+        - {x: 108, y: -4}
+        - {x: 108, y: 14}
+    - name: liferedanddead_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 311
+        width: 112
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -5}
+        - {x: 3, y: -6}
+        - {x: 99, y: -6}
+        - {x: 112, y: -4}
+        - {x: 112, y: 14}
+    - name: liferedanddead_26
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 311
+        width: 116
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 116, y: -6}
+        - {x: 116, y: 12}
+        - {x: 112, y: 14}
+    - name: liferedanddead_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 311
+        width: 120
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -5}
+        - {x: 15, y: -6}
+        - {x: 120, y: -6}
+        - {x: 120, y: 10}
+        - {x: 117, y: 14}
+    - name: liferedanddead_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 247
+        width: 124
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: 0, y: 12}
+        - {x: 0, y: -6}
+        - {x: 124, y: -6}
+        - {x: 124, y: 13}
+        - {x: 121, y: 14}
+    - name: liferedanddead_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 247
+        width: 128
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 17, y: -6}
+        - {x: 122, y: -6}
+        - {x: 128, y: 5}
+        - {x: 128, y: 14}
+    - name: liferedanddead_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 247
+        width: 132
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 119, y: -6}
+        - {x: 132, y: 2}
+        - {x: 132, y: 14}
+    - name: liferedanddead_31
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 247
+        width: 136
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -2}
+        - {x: 17, y: -6}
+        - {x: 136, y: -6}
+        - {x: 136, y: 13}
+        - {x: 135, y: 14}
+    - name: liferedanddead_32
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 247
+        width: 140
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 140, y: -6}
+        - {x: 140, y: 9}
+        - {x: 132, y: 14}
+    - name: liferedanddead_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 187
+        width: 144
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 14}
+        - {x: 0, y: 12}
+        - {x: 0, y: -6}
+        - {x: 144, y: -6}
+        - {x: 144, y: 13}
+        - {x: 143, y: 14}
+    - name: liferedanddead_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 187
+        width: 148
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -6}
+        - {x: 148, y: -6}
+        - {x: 148, y: 14}
+    - name: liferedanddead_35
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 187
+        width: 152
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 143, y: -6}
+        - {x: 152, y: 4}
+        - {x: 152, y: 14}
+    - name: liferedanddead_36
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 187
+        width: 156
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 143, y: -6}
+        - {x: 156, y: 0}
+        - {x: 156, y: 14}
+    - name: liferedanddead_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 127
+        width: 160
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 14}
+        - {x: 0, y: 9}
+        - {x: 0, y: -5}
+        - {x: 3, y: -6}
+        - {x: 160, y: -6}
+        - {x: 160, y: 14}
+    - name: liferedanddead_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 127
+        width: 164
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 164, y: -6}
+        - {x: 164, y: 5}
+        - {x: 160, y: 14}
+    - name: liferedanddead_39
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 127
+        width: 168
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 14}
+        - {x: 0, y: 10}
+        - {x: 0, y: -6}
+        - {x: 168, y: -6}
+        - {x: 168, y: 14}
+    - name: liferedanddead_40
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 127
+        width: 172
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 166, y: -6}
+        - {x: 172, y: -2}
+        - {x: 172, y: 11}
+        - {x: 157, y: 14}
+    - name: liferedanddead_41
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 65
+        width: 176
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -6}
+        - {x: 176, y: -6}
+        - {x: 176, y: 7}
+        - {x: 173, y: 14}
+    - name: liferedanddead_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 65
+        width: 180
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -5}
+        - {x: 2, y: -6}
+        - {x: 180, y: -6}
+        - {x: 180, y: 7}
+        - {x: 175, y: 14}
+    - name: liferedanddead_43
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 65
+        width: 184
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 168, y: -6}
+        - {x: 184, y: -2}
+        - {x: 184, y: 7}
+        - {x: 178, y: 14}
+    - name: liferedanddead_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 188
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 188, y: -6}
+        - {x: 188, y: 14}
+    - name: liferedanddead_45
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 192
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 192, y: -6}
+        - {x: 192, y: 13}
+        - {x: 179, y: 14}
+    - name: liferedanddead_46
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 192
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -5}
+        - {x: 6, y: -6}
+        - {x: 192, y: -6}
+        - {x: 192, y: 13}
+        - {x: 179, y: 14}
+    - name: liferedanddead_47
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 192
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -2}
+        - {x: 184, y: -6}
+        - {x: 192, y: -6}
+        - {x: 192, y: 10}
+        - {x: 122, y: 10}
+        - {x: 0, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

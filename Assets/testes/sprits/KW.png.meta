@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 4f6b1f6f67473154b899e32ba2bb2fa1
+timeCreated: 1457147169
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KW_0
+    21300002: KW_1
+    21300004: KW_3
+    21300006: KW_4
+    21300008: KW_5
+    21300010: KW_6
+    21300012: KW_8
+    21300014: KW_9
+    21300016: KW_10
+    21300018: KW_11
+    21300020: KW_12
+    21300022: KW_13
+    21300024: KW_14
+    21300026: KW_15
+    21300028: KW_16
+    21300030: KW_17
+    21300032: KW_18
+    21300034: KW_19
+    21300036: KW_20
+    21300038: KW_23
+    21300040: KW_24
+    21300042: KW_25
+    21300044: KW_2
+    21300046: KW_22
+    21300048: KW_21
+    21300050: KW_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 12.5}
+        - {x: 37, y: 19.5}
+        - {x: -35, y: 19.5}
+        - {x: -62, y: 8.5}
+        - {x: -62, y: -10.5}
+        - {x: -58, y: -10.5}
+        - {x: -33, y: -17.5}
+        - {x: -21, y: -17.5}
+        - {x: -20, y: -14.5}
+        - {x: -7, y: -17.5}
+        - {x: 0, y: -17.5}
+        - {x: 4, y: -13.5}
+        - {x: 59, y: -0.5}
+        - {x: 60, y: 0.5}
+    - name: KW_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_6
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_7
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_8
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_9
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_10
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_11
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_12
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 19.5}
+        - {x: -62, y: 12.5}
+        - {x: -62, y: -18.5}
+        - {x: 61, y: -18.5}
+        - {x: 61, y: 13.5}
+        - {x: 46, y: 19.5}
+    - name: KW_13
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -12.5}
+        - {x: -56, y: -19.5}
+        - {x: 61, y: -19.5}
+        - {x: 61, y: 12.5}
+        - {x: 38, y: 19.5}
+    - name: KW_14
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -15.5}
+        - {x: -42, y: -20.5}
+        - {x: 28, y: -20.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_15
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 19.5}
+        - {x: -62, y: 14.5}
+        - {x: -62, y: -11.5}
+        - {x: -35, y: -21.5}
+        - {x: 32, y: -21.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 17.5}
+        - {x: 54, y: 19.5}
+    - name: KW_16
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 19.5}
+        - {x: -62, y: 14.5}
+        - {x: -62, y: -13.5}
+        - {x: -59, y: -20.5}
+        - {x: -27, y: -22.5}
+        - {x: 23, y: -22.5}
+        - {x: 61, y: -0.5}
+        - {x: 61, y: 18.5}
+        - {x: 58, y: 19.5}
+    - name: KW_17
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 19.5}
+        - {x: -62, y: 10.5}
+        - {x: -62, y: -17.5}
+        - {x: -61, y: -22.5}
+        - {x: 25, y: -22.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 13.5}
+        - {x: 39, y: 19.5}
+    - name: KW_18
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+        - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -15.5}
+        - {x: -60, y: -16.5}
+        - {x: -20, y: -16.5}
+        - {x: -19, y: -14.5}
+        - {x: 1, y: -4.5}
+        - {x: 60, y: -0.5}
+    - name: KW_19
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 19.5}
+        - {x: -62, y: 10.5}
+        - {x: -62, y: -17.5}
+        - {x: -61, y: -22.5}
+        - {x: 25, y: -22.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 13.5}
+        - {x: 39, y: 19.5}
+    - name: KW_20
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 19.5}
+        - {x: -62, y: 14.5}
+        - {x: -62, y: -13.5}
+        - {x: -59, y: -20.5}
+        - {x: -27, y: -22.5}
+        - {x: 23, y: -22.5}
+        - {x: 61, y: -0.5}
+        - {x: 61, y: 18.5}
+        - {x: 58, y: 19.5}
+    - name: KW_21
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 19.5}
+        - {x: -62, y: 14.5}
+        - {x: -62, y: -11.5}
+        - {x: -35, y: -21.5}
+        - {x: 32, y: -21.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 17.5}
+        - {x: 54, y: 19.5}
+    - name: KW_22
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -15.5}
+        - {x: -42, y: -20.5}
+        - {x: 28, y: -20.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    - name: KW_23
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -12.5}
+        - {x: -56, y: -19.5}
+        - {x: 61, y: -19.5}
+        - {x: 61, y: 12.5}
+        - {x: 38, y: 19.5}
+    - name: KW_24
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 19.5}
+        - {x: -62, y: 12.5}
+        - {x: -62, y: -18.5}
+        - {x: 61, y: -18.5}
+        - {x: 61, y: 13.5}
+        - {x: 46, y: 19.5}
+    - name: KW_25
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 34
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 19.5}
+        - {x: -39, y: 19.5}
+        - {x: -62, y: 7.5}
+        - {x: -62, y: -13.5}
+        - {x: -60, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 60, y: -0.5}
+        - {x: 61, y: 0.5}
+        - {x: 61, y: 12.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

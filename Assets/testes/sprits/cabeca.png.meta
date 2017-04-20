@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 738184a812dd73e43bf4a321f0af1572
+timeCreated: 1458691641
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cabeca_0
+    21300002: cabeca_1
+    21300004: cabeca_2
+    21300006: cabeca_3
+    21300008: cabeca_4
+    21300010: cabeca_5
+    21300012: cabeca_6
+    21300014: cabeca_7
+    21300016: cabeca_8
+    21300018: cabeca_9
+    21300020: cabeca_10
+    21300022: cabeca_11
+    21300024: cabeca_12
+    21300026: cabeca_13
+    21300028: cabeca_14
+    21300030: cabeca_15
+    21300032: cabeca_16
+    21300034: cabeca_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cabeca_0
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 205
+        width: 88
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.444443, y: 45.77778}
+        - {x: -19.444443, y: 42.77778}
+        - {x: -19.444443, y: 0.7777786}
+        - {x: -17.444443, y: -0.22222137}
+        - {x: 18.555557, y: -0.22222137}
+        - {x: 20.555557, y: 5.7777786}
+        - {x: 20.555557, y: 36.77778}
+        - {x: 13.555557, y: 45.77778}
+    - name: cabeca_1
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 205
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.333344, y: 45.77778}
+        - {x: -19.333344, y: 37.77778}
+        - {x: -19.333344, y: 9.777779}
+        - {x: -9.3333435, y: -0.22222137}
+        - {x: 14.6666565, y: -0.22222137}
+        - {x: 20.666656, y: 3.7777786}
+        - {x: 20.666656, y: 37.77778}
+        - {x: 16.666656, y: 45.77778}
+    - name: cabeca_2
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 205
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.333313, y: 45.77778}
+        - {x: -13.333313, y: 43.77778}
+        - {x: -19.333313, y: 34.77778}
+        - {x: -19.333313, y: 8.777779}
+        - {x: -11.333313, y: -0.22222137}
+        - {x: 19.666687, y: -0.22222137}
+        - {x: 20.666687, y: 1.7777786}
+        - {x: 20.666687, y: 42.77778}
+        - {x: 10.666687, y: 45.77778}
+    - name: cabeca_3
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 205
+        width: 88
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.666687, y: 45.77778}
+        - {x: -19.666687, y: 42.77778}
+        - {x: -19.666687, y: 4.7777786}
+        - {x: -18.666687, y: -0.22222137}
+        - {x: 11.333313, y: -0.22222137}
+        - {x: 20.333313, y: 6.7777786}
+        - {x: 20.333313, y: 35.77778}
+        - {x: 12.333313, y: 45.77778}
+    - name: cabeca_4
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 205
+        width: 88
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.666687, y: 45.77778}
+        - {x: -19.666687, y: 1.7777786}
+        - {x: -14.666687, y: -0.22222137}
+        - {x: 17.333313, y: -0.22222137}
+        - {x: 20.333313, y: 8.777779}
+        - {x: 20.333313, y: 37.77778}
+        - {x: 10.333313, y: 45.77778}
+    - name: cabeca_5
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 205
+        width: 86
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.166626, y: 45.77778}
+        - {x: -19.166626, y: 41.77778}
+        - {x: -19.166626, y: 2.7777786}
+        - {x: -12.166626, y: -0.22222137}
+        - {x: 11.833374, y: -0.22222137}
+        - {x: 19.833374, y: 8.777779}
+        - {x: 19.833374, y: 37.77778}
+        - {x: 13.833374, y: 45.77778}
+    - name: cabeca_6
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 205
+        width: 88
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.555542, y: 45.77778}
+        - {x: -19.555542, y: -0.22222137}
+        - {x: 19.444458, y: -0.22222137}
+        - {x: 20.444458, y: 5.7777786}
+        - {x: 20.444458, y: 36.77778}
+        - {x: 11.444458, y: 45.77778}
+    - name: cabeca_7
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 205
+        width: 86
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.055542, y: 45.77778}
+        - {x: -19.055542, y: 41.77778}
+        - {x: -19.055542, y: 2.7777786}
+        - {x: -12.055542, y: -0.22222137}
+        - {x: 11.944458, y: -0.22222137}
+        - {x: 19.944458, y: 8.777779}
+        - {x: 19.944458, y: 37.77778}
+        - {x: 13.944458, y: 45.77778}
+    - name: cabeca_8
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 205
+        width: 88
+        height: 102
+      alignment: 9
+      pivot: {x: 0.31111285, y: 0.15042278}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline:
+      - - {x: 19.943115, y: 38.95861}
+        - {x: -2.0568848, y: 38.95861}
+        - {x: -12.056885, y: 28.95861}
+        - {x: -12.056885, y: 1.9586105}
+        - {x: -0.056884766, y: -7.0413895}
+        - {x: 17.943115, y: -7.0413895}
+        - {x: 27.943115, y: 0.95861053}
+        - {x: 27.943115, y: 28.95861}
+        - {x: 21.943115, y: 37.95861}
+    - name: cabeca_9
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 205
+        width: 88
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.444336, y: 45.77778}
+        - {x: -19.444336, y: 42.77778}
+        - {x: -19.444336, y: 0.7777786}
+        - {x: -17.444336, y: -0.22222137}
+        - {x: 18.555664, y: -0.22222137}
+        - {x: 20.555664, y: 5.7777786}
+        - {x: 20.555664, y: 36.77778}
+        - {x: 13.555664, y: 45.77778}
+    - name: cabeca_10
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 205
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.333252, y: 45.77778}
+        - {x: -15.333252, y: 43.77778}
+        - {x: -19.333252, y: 33.77778}
+        - {x: -19.333252, y: 13.777779}
+        - {x: -18.333252, y: 11.777779}
+        - {x: -11.333252, y: 2.7777786}
+        - {x: -8.333252, y: -0.22222137}
+        - {x: 20.666748, y: -0.22222137}
+        - {x: 20.666748, y: 45.77778}
+    - name: cabeca_11
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 205
+        width: 87
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.333252, y: 45.77778}
+        - {x: -13.333252, y: 43.77778}
+        - {x: -19.333252, y: 34.77778}
+        - {x: -19.333252, y: 8.777779}
+        - {x: -11.333252, y: -0.22222137}
+        - {x: 19.666748, y: -0.22222137}
+        - {x: 20.666748, y: 1.7777786}
+        - {x: 20.666748, y: 42.77778}
+        - {x: 10.666748, y: 45.77778}
+    - name: cabeca_12
+      rect:
+        serializedVersion: 2
+        x: 6357
+        y: 205
+        width: 88
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.666748, y: 45.77778}
+        - {x: -19.666748, y: 35.77778}
+        - {x: -19.666748, y: 9.777779}
+        - {x: -8.666748, y: -0.22222137}
+        - {x: 11.333252, y: -0.22222137}
+        - {x: 20.333252, y: 6.7777786}
+        - {x: 20.333252, y: 37.77778}
+        - {x: 17.333252, y: 45.77778}
+    - name: cabeca_13
+      rect:
+        serializedVersion: 2
+        x: 6870
+        y: 205
+        width: 88
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.666748, y: 45.77778}
+        - {x: -19.666748, y: 1.7777786}
+        - {x: -14.666748, y: -0.22222137}
+        - {x: 17.333252, y: -0.22222137}
+        - {x: 20.333252, y: 8.777779}
+        - {x: 20.333252, y: 37.77778}
+        - {x: 10.333252, y: 45.77778}
+    - name: cabeca_14
+      rect:
+        serializedVersion: 2
+        x: 7383
+        y: 205
+        width: 86
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.166748, y: 45.77778}
+        - {x: -19.166748, y: 41.77778}
+        - {x: -19.166748, y: 2.7777786}
+        - {x: -12.166748, y: -0.22222137}
+        - {x: 11.833252, y: -0.22222137}
+        - {x: 19.833252, y: 8.777779}
+        - {x: 19.833252, y: 37.77778}
+        - {x: 13.833252, y: 45.77778}
+    - name: cabeca_15
+      rect:
+        serializedVersion: 2
+        x: 7894
+        y: 205
+        width: 88
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.55542, y: 45.77778}
+        - {x: -19.55542, y: -0.22222137}
+        - {x: 19.44458, y: -0.22222137}
+        - {x: 20.44458, y: 5.7777786}
+        - {x: 20.44458, y: 36.77778}
+        - {x: 11.44458, y: 45.77778}
+    - name: cabeca_16
+      rect:
+        serializedVersion: 2
+        x: 8407
+        y: 205
+        width: 86
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.05542, y: 45.77778}
+        - {x: -19.05542, y: 41.77778}
+        - {x: -19.05542, y: 2.7777786}
+        - {x: -12.05542, y: -0.22222137}
+        - {x: 11.94458, y: -0.22222137}
+        - {x: 19.94458, y: 8.777779}
+        - {x: 19.94458, y: 37.77778}
+        - {x: 13.94458, y: 45.77778}
+    - name: cabeca_17
+      rect:
+        serializedVersion: 2
+        x: 8918
+        y: 205
+        width: 88
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.555664, y: 45.77778}
+        - {x: -9.444336, y: 45.77778}
+        - {x: -19.444336, y: 35.77778}
+        - {x: -19.444336, y: 8.777779}
+        - {x: -7.444336, y: -0.22222137}
+        - {x: 10.555664, y: -0.22222137}
+        - {x: 20.555664, y: 7.7777786}
+        - {x: 20.555664, y: 35.77778}
+        - {x: 14.555664, y: 44.77778}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

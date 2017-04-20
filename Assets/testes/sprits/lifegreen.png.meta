@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: 773b13405aa84f04a9df4ca86deca739
+timeCreated: 1465342961
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lifegreen_0
+    21300002: lifegreen_1
+    21300004: lifegreen_2
+    21300006: lifegreen_3
+    21300008: lifegreen_4
+    21300010: lifegreen_5
+    21300012: lifegreen_6
+    21300014: lifegreen_7
+    21300016: lifegreen_8
+    21300018: lifegreen_9
+    21300020: lifegreen_10
+    21300022: lifegreen_11
+    21300024: lifegreen_12
+    21300026: lifegreen_13
+    21300028: lifegreen_14
+    21300030: lifegreen_15
+    21300032: lifegreen_16
+    21300034: lifegreen_17
+    21300036: lifegreen_18
+    21300038: lifegreen_19
+    21300040: lifegreen_20
+    21300042: lifegreen_21
+    21300044: lifegreen_22
+    21300046: lifegreen_23
+    21300048: lifegreen_24
+    21300050: lifegreen_25
+    21300052: lifegreen_26
+    21300054: lifegreen_27
+    21300056: lifegreen_28
+    21300058: lifegreen_29
+    21300060: lifegreen_30
+    21300062: lifegreen_31
+    21300064: lifegreen_32
+    21300066: lifegreen_33
+    21300068: lifegreen_34
+    21300070: lifegreen_35
+    21300072: lifegreen_36
+    21300074: lifegreen_37
+    21300076: lifegreen_38
+    21300078: lifegreen_39
+    21300080: lifegreen_40
+    21300082: lifegreen_41
+    21300084: lifegreen_42
+    21300086: lifegreen_43
+    21300088: lifegreen_44
+    21300090: lifegreen_45
+    21300092: lifegreen_46
+    21300094: lifegreen_47
+    21300096: lifegreen_48
+    21300098: lifegreen_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lifegreen_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 499
+        width: 8
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 22}
+        - {x: 0, y: 11}
+        - {x: 0, y: -2}
+        - {x: 22, y: -24}
+        - {x: 34, y: -24}
+        - {x: 60, y: -9}
+        - {x: 60, y: 7}
+        - {x: 51, y: 22}
+    - name: lifegreen_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 499
+        width: 12
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 22}
+        - {x: 0, y: 11}
+        - {x: 0, y: -9}
+        - {x: 21, y: -24}
+        - {x: 41, y: -24}
+        - {x: 64, y: -4}
+        - {x: 64, y: 6}
+        - {x: 47, y: 22}
+    - name: lifegreen_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 499
+        width: 16
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 22}
+        - {x: 0, y: 11}
+        - {x: 0, y: -10}
+        - {x: 21, y: -24}
+        - {x: 42, y: -24}
+        - {x: 68, y: -4}
+        - {x: 68, y: 6}
+        - {x: 48, y: 22}
+    - name: lifegreen_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 499
+        width: 20
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 22}
+        - {x: 0, y: 11}
+        - {x: 0, y: -2}
+        - {x: 22, y: -24}
+        - {x: 34, y: -24}
+        - {x: 72, y: -3}
+        - {x: 72, y: 6}
+        - {x: 49, y: 22}
+    - name: lifegreen_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 499
+        width: 24
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 22}
+        - {x: 0, y: 16}
+        - {x: 0, y: -5}
+        - {x: 15, y: -24}
+        - {x: 35, y: -24}
+        - {x: 76, y: -8}
+        - {x: 76, y: 18}
+        - {x: 63, y: 22}
+    - name: lifegreen_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 499
+        width: 28
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: 0, y: 19}
+        - {x: 0, y: -6}
+        - {x: 21, y: -24}
+        - {x: 45, y: -24}
+        - {x: 80, y: -3}
+        - {x: 80, y: 13}
+        - {x: 49, y: 22}
+    - name: lifegreen_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 499
+        width: 32
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 14}
+        - {x: 0, y: 8}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 27, y: -1}
+        - {x: 32, y: 4}
+        - {x: 32, y: 14}
+    - name: lifegreen_7
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 499
+        width: 36
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 18}
+        - {x: 6, y: 15}
+        - {x: 0, y: 7}
+        - {x: 0, y: -2}
+        - {x: 26, y: -2}
+        - {x: 36, y: 8}
+        - {x: 36, y: 18}
+    - name: lifegreen_8
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 499
+        width: 40
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 22}
+        - {x: 0, y: 8}
+        - {x: 0, y: -2}
+        - {x: 29, y: -2}
+        - {x: 40, y: 0}
+        - {x: 40, y: 22}
+    - name: lifegreen_9
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 499
+        width: 44
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 39, y: 11}
+        - {x: 44, y: 16}
+        - {x: 44, y: 24}
+    - name: lifegreen_10
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 499
+        width: 48
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 48, y: 13}
+        - {x: 48, y: 24}
+    - name: lifegreen_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 439
+        width: 52
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 28, y: -2}
+        - {x: 52, y: 8}
+        - {x: 52, y: 20}
+        - {x: 51, y: 24}
+    - name: lifegreen_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 439
+        width: 56
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 56, y: -2}
+        - {x: 56, y: 19}
+        - {x: 48, y: 24}
+    - name: lifegreen_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 439
+        width: 60
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 60, y: -2}
+        - {x: 60, y: 12}
+        - {x: 50, y: 24}
+    - name: lifegreen_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 439
+        width: 64
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 15}
+        - {x: 48, y: 24}
+        - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 64, y: -2}
+        - {x: 64, y: 7}
+    - name: lifegreen_15
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 439
+        width: 68
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 24}
+        - {x: 0, y: 13}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 44, y: -6}
+        - {x: 68, y: -6}
+        - {x: 68, y: 7}
+        - {x: 55, y: 24}
+    - name: lifegreen_16
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 439
+        width: 72
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 24}
+        - {x: 0, y: 10}
+        - {x: 0, y: -5}
+        - {x: 34, y: -10}
+        - {x: 72, y: -10}
+        - {x: 72, y: 8}
+        - {x: 53, y: 24}
+    - name: lifegreen_17
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 439
+        width: 76
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 24}
+        - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 72, y: -14}
+        - {x: 76, y: -14}
+        - {x: 76, y: -5}
+        - {x: 57, y: 15}
+    - name: lifegreen_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 439
+        width: 80
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 48, y: -18}
+        - {x: 80, y: -18}
+        - {x: 80, y: -9}
+        - {x: 61, y: 19}
+        - {x: 49, y: 24}
+    - name: lifegreen_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 376
+        width: 84
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 66, y: -22}
+        - {x: 84, y: -22}
+        - {x: 84, y: -13}
+        - {x: 63, y: 21}
+        - {x: 52, y: 24}
+    - name: lifegreen_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 376
+        width: 88
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 74, y: -22}
+        - {x: 88, y: -22}
+        - {x: 88, y: -5}
+        - {x: 47, y: 24}
+    - name: lifegreen_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 376
+        width: 92
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 73, y: -22}
+        - {x: 89, y: -22}
+        - {x: 92, y: -16}
+        - {x: 92, y: -1}
+        - {x: 49, y: 24}
+    - name: lifegreen_22
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 376
+        width: 96
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 73, y: -22}
+        - {x: 90, y: -22}
+        - {x: 96, y: -12}
+        - {x: 96, y: 3}
+        - {x: 47, y: 24}
+    - name: lifegreen_23
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 376
+        width: 100
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 24}
+        - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -11}
+        - {x: 57, y: -22}
+        - {x: 91, y: -22}
+        - {x: 100, y: -8}
+        - {x: 100, y: 2}
+        - {x: 95, y: 4}
+    - name: lifegreen_24
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 376
+        width: 104
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 24}
+        - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -3}
+        - {x: 15, y: -22}
+        - {x: 104, y: -22}
+        - {x: 104, y: 7}
+        - {x: 93, y: 5}
+    - name: lifegreen_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 314
+        width: 108
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 69, y: -22}
+        - {x: 93, y: -22}
+        - {x: 108, y: 0}
+        - {x: 108, y: 12}
+        - {x: 55, y: 24}
+    - name: lifegreen_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 314
+        width: 112
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: 0, y: -11}
+        - {x: 57, y: -22}
+        - {x: 92, y: -22}
+        - {x: 112, y: 0}
+        - {x: 112, y: 15}
+        - {x: 108, y: 24}
+    - name: lifegreen_27
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 314
+        width: 116
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: 0, y: -11}
+        - {x: 70, y: -22}
+        - {x: 87, y: -22}
+        - {x: 116, y: 8}
+        - {x: 116, y: 18}
+        - {x: 109, y: 24}
+    - name: lifegreen_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 314
+        width: 120
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: 0, y: -11}
+        - {x: 71, y: -22}
+        - {x: 87, y: -22}
+        - {x: 120, y: 13}
+        - {x: 120, y: 22}
+        - {x: 117, y: 24}
+    - name: lifegreen_29
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 314
+        width: 124
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 24}
+        - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -11}
+        - {x: 71, y: -22}
+        - {x: 87, y: -22}
+        - {x: 124, y: 17}
+        - {x: 124, y: 24}
+        - {x: 115, y: 24}
+        - {x: 103, y: 19}
+    - name: lifegreen_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 252
+        width: 128
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 70, y: -22}
+        - {x: 95, y: -22}
+        - {x: 128, y: 12}
+        - {x: 128, y: 24}
+    - name: lifegreen_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 252
+        width: 132
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 74, y: -22}
+        - {x: 93, y: -22}
+        - {x: 132, y: 10}
+        - {x: 132, y: 19}
+        - {x: 129, y: 24}
+    - name: lifegreen_32
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 252
+        width: 136
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 73, y: -22}
+        - {x: 95, y: -22}
+        - {x: 136, y: 1}
+        - {x: 136, y: 17}
+        - {x: 128, y: 24}
+    - name: lifegreen_33
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 252
+        width: 140
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 73, y: -22}
+        - {x: 98, y: -22}
+        - {x: 140, y: -4}
+        - {x: 140, y: 24}
+    - name: lifegreen_34
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 252
+        width: 144
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 24}
+        - {x: 0, y: 14}
+        - {x: 0, y: -2}
+        - {x: 24, y: -2}
+        - {x: 64, y: -22}
+        - {x: 98, y: -22}
+        - {x: 144, y: -9}
+        - {x: 144, y: 24}
+    - name: lifegreen_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 190
+        width: 148
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -4}
+        - {x: 22, y: -22}
+        - {x: 148, y: -22}
+        - {x: 148, y: 6}
+        - {x: 132, y: 24}
+        - {x: 13, y: 24}
+        - {x: 0, y: 22}
+    - name: lifegreen_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 190
+        width: 152
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: 0, y: -4}
+        - {x: 26, y: -22}
+        - {x: 152, y: -22}
+        - {x: 152, y: 3}
+        - {x: 129, y: 24}
+    - name: lifegreen_37
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 190
+        width: 156
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: 0, y: -4}
+        - {x: 27, y: -22}
+        - {x: 156, y: -22}
+        - {x: 156, y: -3}
+        - {x: 127, y: 24}
+    - name: lifegreen_38
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 190
+        width: 160
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: 0, y: -5}
+        - {x: 22, y: -22}
+        - {x: 160, y: -22}
+        - {x: 160, y: -9}
+        - {x: 157, y: -5}
+        - {x: 149, y: 3}
+        - {x: 132, y: 24}
+    - name: lifegreen_39
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 127
+        width: 164
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 24}
+        - {x: 0, y: 14}
+        - {x: 0, y: -2}
+        - {x: 22, y: -22}
+        - {x: 164, y: -22}
+        - {x: 164, y: 24}
+    - name: lifegreen_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 127
+        width: 168
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116, y: 24}
+        - {x: 103, y: 18}
+        - {x: 63, y: 24}
+        - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 23, y: -22}
+        - {x: 168, y: -22}
+        - {x: 168, y: -8}
+        - {x: 133, y: 24}
+    - name: lifegreen_41
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 127
+        width: 172
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 24}
+        - {x: 0, y: 22}
+        - {x: 0, y: -3}
+        - {x: 23, y: -22}
+        - {x: 172, y: -22}
+        - {x: 172, y: -1}
+        - {x: 135, y: 24}
+    - name: lifegreen_42
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 127
+        width: 176
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116, y: 24}
+        - {x: 103, y: 18}
+        - {x: 63, y: 24}
+        - {x: 30, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 39, y: -22}
+        - {x: 176, y: -22}
+        - {x: 176, y: 3}
+        - {x: 137, y: 24}
+    - name: lifegreen_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 65
+        width: 180
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 24}
+        - {x: 0, y: 22}
+        - {x: 0, y: -3}
+        - {x: 23, y: -22}
+        - {x: 180, y: -22}
+        - {x: 180, y: 9}
+        - {x: 141, y: 24}
+    - name: lifegreen_44
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 65
+        width: 184
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 24}
+        - {x: 0, y: -14}
+        - {x: 17, y: -22}
+        - {x: 173, y: -22}
+        - {x: 184, y: -18}
+        - {x: 184, y: 24}
+    - name: lifegreen_45
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 65
+        width: 188
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 161, y: 24}
+        - {x: 0, y: 24}
+        - {x: 0, y: -5}
+        - {x: 21, y: -22}
+        - {x: 185, y: -22}
+        - {x: 188, y: -7}
+        - {x: 188, y: 6}
+        - {x: 180, y: 6}
+    - name: lifegreen_46
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 65
+        width: 188
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 161, y: 24}
+        - {x: 0, y: 24}
+        - {x: 0, y: -5}
+        - {x: 21, y: -22}
+        - {x: 185, y: -22}
+        - {x: 188, y: -7}
+        - {x: 188, y: 6}
+        - {x: 180, y: 6}
+    - name: lifegreen_47
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 196
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 174, y: 3}
+        - {x: 130, y: 24}
+        - {x: 22, y: 24}
+        - {x: 0, y: 9}
+        - {x: 0, y: -2}
+        - {x: 43, y: -22}
+        - {x: 185, y: -22}
+        - {x: 196, y: -19}
+        - {x: 196, y: 10}
+        - {x: 191, y: 12}
+    - name: lifegreen_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 200
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 24}
+        - {x: 0, y: 12}
+        - {x: 0, y: -2}
+        - {x: 45, y: -22}
+        - {x: 188, y: -22}
+        - {x: 200, y: -19}
+        - {x: 200, y: 24}
+    - name: lifegreen_49
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3
+        width: 200
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 24}
+        - {x: 0, y: 12}
+        - {x: 0, y: -2}
+        - {x: 45, y: -22}
+        - {x: 188, y: -22}
+        - {x: 200, y: -19}
+        - {x: 200, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

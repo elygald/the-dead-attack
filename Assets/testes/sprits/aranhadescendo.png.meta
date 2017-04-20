@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 3246142a048819a40b75c9c4ff6047bb
+timeCreated: 1464708480
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aranhadescendo_0
+    21300002: aranhadescendo_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: aranhadescendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 301
+        height: 341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 17.44989}
+        - {x: 99, y: 71.44989}
+        - {x: 77, y: 95.44989}
+        - {x: 117, y: 93.44989}
+        - {x: 117, y: 132.44989}
+        - {x: 22, y: 265.4499}
+        - {x: -29, y: 265.4499}
+        - {x: -117, y: 144.44989}
+        - {x: -117, y: 89.44989}
+        - {x: -113, y: 90.44989}
+        - {x: -108, y: 96.44989}
+        - {x: -89, y: 15.44989}
+        - {x: -81, y: 11.44989}
+        - {x: -38, y: 0.44989014}
+        - {x: 24, y: 0.44989014}
+        - {x: 62, y: 40.44989}
+        - {x: 93, y: 16.44989}
+    - name: aranhadescendo_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 977
+        width: 316
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.462433, y: 68.33716}
+        - {x: 93.46243, y: 21.337158}
+        - {x: 103.46243, y: 12.337158}
+        - {x: 110.46243, y: 49.33716}
+        - {x: 93.46243, y: 95.33716}
+        - {x: 122.46243, y: 88.33716}
+        - {x: 122.46243, y: 123.33716}
+        - {x: 68.46243, y: 248.33716}
+        - {x: 23.462433, y: 264.33716}
+        - {x: -0.53756714, y: 264.33716}
+        - {x: -1.5375671, y: 254.33716}
+        - {x: 0.46243286, y: 248.33716}
+        - {x: -6.537567, y: 251.33716}
+        - {x: -62.537567, y: 221.33716}
+        - {x: -111.53757, y: 152.33716}
+        - {x: -122.53757, y: 105.33716}
+        - {x: -122.53757, y: 89.33716}
+        - {x: -116.53757, y: 88.33716}
+        - {x: -91.53757, y: 11.337158}
+        - {x: -85.53757, y: 14.337158}
+        - {x: -81.53757, y: 21.337158}
+        - {x: 0.46243286, y: 0.3371582}
+        - {x: 24.462433, y: 0.3371582}
+        - {x: 39.462433, y: 16.337158}
+        - {x: 42.462433, y: 21.337158}
+        - {x: 52.462433, y: 47.33716}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
